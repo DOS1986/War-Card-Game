@@ -5,7 +5,7 @@ I built the card game war. Using house rules which means you place 3 cards face 
 
 # Objective of the game #
 
-Offical Rules:
+## Offical Rules: ##
 The goal is to be the first player to win all 52 cards
 
 The Deal
@@ -19,7 +19,7 @@ If the cards are the same rank, it is War. Each player turns up one card face do
 How to Keep Score
 The game ends when one player has won all the cards.
 
-How I played when I was younger:
+## How I played when I was younger: ##
 The goal is to be the first player to win all 52 cards
 
 The Deal
@@ -32,3 +32,9 @@ If the cards are the same rank, it is War. Each player turns up three cards face
 
 How to Keep Score
 The game ends when one player has won all the cards.
+
+# Things I learned while making this game #
+
+1. Arraylist, Random(), For loop, If/else statements
+2. Writing a automation script to automate the playing of the game against the computer
+3. handling adding and removing of stirngs from string arraylists
